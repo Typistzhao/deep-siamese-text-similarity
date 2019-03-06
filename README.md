@@ -62,7 +62,7 @@ Categories of pairs, it can learn as similar:
 	This data is generated using SNLI project : 
 	> https://nlp.stanford.edu/projects/snli/
 
-	 - word embeddings: any set of pre-trained word embeddings can be utilized in this project. For our testing we had used fastText 	simple english embeddings from https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md
+- word embeddings: any set of pre-trained word embeddings can be utilized in this project. For our testing we had used fastText 	simple english embeddings from https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md
 
 	alternate download location for "wiki.simple.vec" is : https://drive.google.com/open?id=1u79f3d2PkmePzyKgubkbxOjeaZCJgCrt
 
